@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.divinv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 100px;
+    height: 60px;
+    background-size: cover;
+}
+
+#navbar{
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
